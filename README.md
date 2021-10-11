@@ -1,5 +1,5 @@
 ## Ola!! seja bem vindo ao meu Git 😄 !!!
-## Meu nome é Juan Henrique Lacorte e eu sou desenvolvedor back-end com boas noções de front-end buscando me tornar um arquiteto de software.
+## Meu nome é Juan Henrique Lacorte e eu sou desenvolvedor web back-end, com boas noções de front-end e buscando me tornar um arquiteto de software.
 
 <div align="center">  
   <a href="https://github.com/JuanLacorteDev">
